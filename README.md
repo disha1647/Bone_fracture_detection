@@ -63,7 +63,7 @@ Once the application is running, you can access it in your web browser at `http:
 
 ## Dataset
 
-The model is trained on the [Bone Fracture Dataset](link-to-dataset), which includes a variety of X-ray images with labeled fractures. Ensure that you have the necessary permissions to use this dataset.
+The model is trained on the [Bone Fracture Dataset](https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data), which includes a variety of X-ray images with labeled fractures. Ensure that you have the necessary permissions to use this dataset.
 
 ## Training
 
